@@ -154,14 +154,10 @@ Docker · Microservices · AWS
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EiffaTariq&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
-
-</div>
+## Currently Building
+- Multi-tenant Procurement & Inventory Management System (ASP.NET Core · Blazor · Clean Architecture)
+- Solving LeetCode SQL 150 to sharpen database query optimization skills
+- Exploring Docker & Microservices architecture
 
 ---
 
