@@ -1,16 +1,176 @@
-## Hi there 👋
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Eiffa%20Tariq&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Associate%20Software%20Engineer%20%7C%20.NET%20Full%20Stack%20Developer&descAlignY=51&descAlign=50"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=false&width=650&height=50&lines=ASP.NET+Core+%26+Blazor+WebAssembly+Developer;Clean+Architecture+Enthusiast;Building+Scalable+Full+Stack+Solutions;Fresh+Graduate+%7C+PUCIT+2026" alt="Typing SVG" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=EiffaTariq&label=Profile+Views&color=0e75b6&style=flat" alt="EiffaTariq" />
+</div>
 
-<!--
-**EiffaTariq/EiffaTariq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+👩‍💻 About Me
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Fresh Graduate — B.Sc. Software Engineering, PUCIT (2026)
+💼 2 months Internship at Developer's Hub Corporation as Full Stack Developer
+🔧 Specialized in ASP.NET Core, Blazor WebAssembly, Clean Architecture
+🧠 Actively preparing for ASE / .NET Developer roles in Lahore
+🏆 Innovation Head — Event Management Society, PUCIT
+🏅 Coordinator — Sports Society, PUCIT
+🌱 Currently leveling up: Docker, Microservices, DSA (Neetcode 150)
+📫 Reach me: linkedin.com/in/eiffa-tariq
+
+
+
+🛠️ Tech Stack
+
+<div align="center">
+Languages
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" alt="C#" title="C#"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" title="Python"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" title="JavaScript"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="C++" title="C++"/>
+
+Frameworks & Libraries
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="45" alt="ASP.NET Core" title="ASP.NET Core"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="45" alt=".NET / Blazor" title=".NET / Blazor"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React" title="React"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="Node.js" title="Node.js"/>
+
+Databases & Tools
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="45" alt="SQL Server" title="SQL Server"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="MongoDB" title="MongoDB"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" title="Git"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="Docker" title="Docker"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="45" alt="Jira" title="Jira"/>
+
+</div>
+
+🚀 Featured Projects
+
+🔵 .NET Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📋 Leave Management System &nbsp;<a href="https://www.linkedin.com/posts/eiffa-tariq_blazor-dotnet-webdevelopment-ugcPost-7348783019433803776-Y40A/">▶ Demo</a></h3>
+      <p><strong>Tech:</strong> ASP.NET Core · Blazor WebAssembly · EF Core · SQL Server · JWT</p>
+      <ul>
+        <li>Clean Architecture with Repository Pattern</li>
+        <li>JWT role-based & policy-based authorization</li>
+        <li>Full CRUD with EF Core migrations</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 Library Management System <a href= "https://github.com/EiffaTariq/Library-Management-System">📂 Repo</a></h3>
+      <p><strong>Tech:</strong> ASP.NET Core · EF Core · SQL Server</p>
+      <ul>
+        <li>Book inventory & member management</li>
+        <li>Issue/return tracking with due date logic</li>
+        <li>Repository Pattern + Clean Architecture</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🍽️ Restaurant Management System</h3>
+      <p><strong>Tech:</strong> ASP.NET Core MVC · EF Core · SQL Server</p>
+      <ul>
+        <li>Online reservation & delivery management</li>
+        <li>Menu management with category filtering</li>
+        <li>Repository Pattern + role-based access</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
+</table>
+🟡 MERN Stack Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛒 Multi-Vendor E-Commerce App <a href="https://github.com/EiffaTariq/Ecommerce_Multi_Vendor_System">📂 Repo</a></h3>
+      <p><strong>Tech:</strong> MongoDB · Express · React · Node.js · JWT · Cloudinary · Multer</p>
+      <ul>
+        <li>Full RBAC middleware for vendors, admins & customers</li>
+        <li>Image upload & product management via Cloudinary</li>
+        <li>Secure authentication with JWT + bcrypt</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💬 Mini Social Media App <a href="https://github.com/EiffaTariq/MiniSocialMedia_App">📂 Repo</a></h3>
+      <p><strong>Tech:</strong> MongoDB · Express · React · Node.js · JWT · bcrypt</p>
+      <ul>
+        <li>User authentication with JWT & bcrypt</li>
+        <li>Post creation, likes & follow system</li>
+        <li>Mongoose schemas with RESTful API</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+🔴 Final Year Project
+
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <h3>🩺 Breast Cancer Diagnosis System &nbsp;<a href="https://www.linkedin.com/posts/eiffa-tariq_finalyearproject-deeplearning-medicalimaging-ugcPost-7459866941197967360-gQuX/">▶ Demo</a></h3>
+      <p><strong>Tech:</strong> PyTorch · EfficientNetV2-S · Python · Gradio · DICOM</p>
+      <ul>
+        <li>Mammogram classification with <strong>79.76% test accuracy</strong></li>
+        <li>Stratified 5-fold cross-validation · Focal Loss + label smoothing</li>
+        <li>WeightedRandomSampler to handle class imbalance</li>
+        <li>Gradio interface for real-time mammogram upload & prediction</li>
+        <li>Achieved <strong>GPA 4.0</strong> at external evaluation</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=EiffaTariq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Eiffa's GitHub Stats"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EiffaTariq&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=EiffaTariq&theme=tokyonight&hide_border=true" alt="Eiffa's GitHub Streak"/>
+</div>
+
+🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=EiffaTariq&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
+</div>
+
+📜 Certifications
+
+
+🎓 Blazor WebAssembly — Udemy
+🔧 ASP.NET Core Full Stack — Internship (Developer's Hub Corporation)
+
+
+
+🌟 Achievements
+
+
+🏆 Innovation Head — Event Management Society, PUCIT
+🏅 Coordinator — Sports Society, PUCIT
+🎯 GPA 4.0 on Final Year Project — External Evaluation
+💼 1 Year Industry Experience — Full Stack .NET Development
+
+
+
+🤝 Connect with Me
+
+<div align="center">
+Show Image
+Show Image
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+Keep Learning. Keep Building. Keep Growing. 🚀
+
+</div>
