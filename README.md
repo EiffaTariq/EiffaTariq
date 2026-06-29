@@ -105,7 +105,6 @@ Docker · Microservices · AWS
         <li>Repository Pattern + role-based access</li>
       </ul>
     </td>
-    <td width="50%" valign="top" style="background:transparent;border:none;">&nbsp;</td>
   </tr>
 </table>
 
