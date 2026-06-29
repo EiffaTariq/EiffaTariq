@@ -30,7 +30,7 @@ Associate Software Engineer / .NET Developer roles in Lahore
 Innovation Head — Event Management Society · Coordinator — Sports Society
 
 **Currently Learning**
-Docker · Microservices · DSA (Neetcode 150)
+Docker · Microservices · AWS
 
 ---
 
