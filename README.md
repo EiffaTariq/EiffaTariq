@@ -10,7 +10,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer_girl.gif"/>
+<img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ## About Me
 
@@ -105,7 +105,7 @@ Docker · Microservices · DSA (Neetcode 150)
         <li>Repository Pattern + role-based access</li>
       </ul>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top" style="background:transparent;border:none;">&nbsp;</td>
   </tr>
 </table>
 
@@ -177,7 +177,7 @@ Docker · Microservices · DSA (Neetcode 150)
 - Innovation Head — Event Management Society, PUCIT
 - Coordinator — Sports Society, PUCIT
 - GPA 4.0 on Final Year Project — External Evaluation
-- 1 Year Industry Experience — Full Stack .NET Development
+- 2 Months Industry Experience — Full Stack .NET Development
 
 ---
 
